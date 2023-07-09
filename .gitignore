@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -28,4 +27,3 @@ yarn-error.log*
 
 # Ada Library Information
 *.ali
->>>>>>> 86bb4f4c0683a38f0de5fc2e599ae0328c65184c
