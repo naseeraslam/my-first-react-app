@@ -2,12 +2,12 @@ import React, { Component } from "react";
 
 class Counter extends Component {
   state = {
-    count: 0,
+    value: this.props.value,
   };
 
   handleIncrement = (id) => {
     console.log(id);
-    this.setState({ count: this.state.count + 1 });
+    this.setState({ value: this.state.value + 1 });
   };
 
   render() {
@@ -31,9 +31,9 @@ class Counter extends Component {
   }
 
   formatCount() {
-    const { count } = this.state;
+    const { value } = this.state;
     const x = "Zero";
-    return count === 0 ? x : count;
+    return value === 0 ? x : value;
   }
 }
 
