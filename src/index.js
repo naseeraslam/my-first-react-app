@@ -1,11 +1,9 @@
 import React from "react";
-import ReactDOM from "react-dom/client";
-import "./index.css";
-import "bootstrap/dist/css/bootstrap.css";
-import Counter from "./components/counter";
-const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(
-  <React.StrictMode>
-    <Counter />
-  </React.StrictMode>
-);
+import ReactDOM from "react-dom";
+
+const el = document.getElementById("root");
+const root = ReactDOM.createRoot(el);
+function App() {
+  return <h1>Naseer Is here</h1>;
+}
+root.render(<App />);
