@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/naseeraslam/naseer-aslam-profile/static/css/main.1f59ae86.css",
+    "main.js": "/naseeraslam/naseer-aslam-profile/static/js/main.451e2339.js",
+    "index.html": "/naseeraslam/naseer-aslam-profile/index.html",
+    "main.1f59ae86.css.map": "/naseeraslam/naseer-aslam-profile/static/css/main.1f59ae86.css.map",
+    "main.451e2339.js.map": "/naseeraslam/naseer-aslam-profile/static/js/main.451e2339.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f59ae86.css",
+    "static/js/main.451e2339.js"
+  ]
+}
