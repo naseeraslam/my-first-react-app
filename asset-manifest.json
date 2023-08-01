@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/naseeraslam/naseer-aslam-profile/static/css/main.2627f285.css",
-    "main.js": "/naseeraslam/naseer-aslam-profile/static/js/main.d440c07c.js",
-    "index.html": "/naseeraslam/naseer-aslam-profile/index.html",
-    "main.2627f285.css.map": "/naseeraslam/naseer-aslam-profile/static/css/main.2627f285.css.map",
-    "main.d440c07c.js.map": "/naseeraslam/naseer-aslam-profile/static/js/main.d440c07c.js.map"
+    "main.css": "/naseer-aslam-profile/static/css/main.76610997.css",
+    "main.js": "/naseer-aslam-profile/static/js/main.b145cf7d.js",
+    "index.html": "/naseer-aslam-profile/index.html",
+    "main.76610997.css.map": "/naseer-aslam-profile/static/css/main.76610997.css.map",
+    "main.b145cf7d.js.map": "/naseer-aslam-profile/static/js/main.b145cf7d.js.map"
   },
   "entrypoints": [
-    "static/css/main.2627f285.css",
-    "static/js/main.d440c07c.js"
+    "static/css/main.76610997.css",
+    "static/js/main.b145cf7d.js"
   ]
 }
